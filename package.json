@@ -30,6 +30,8 @@
   "dependencies": {
     "shelljs": "~0.2.6",
     "underscore": "~1.5.2",
-    "q": "~1.0.0"
+    "q": "~1.0.0",
+    "coveralls": "~2.6.1",
+    "mocha-lcov-reporter": "0.0.1"
   }
 }
